@@ -1,0 +1,8 @@
+
+# change to yuor dataset path
+path: C:\Users\PC\PycharmProjects\ImageSegUsingYolov8\dataset_example
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['images']
