@@ -20,3 +20,6 @@ The pretrained weights for this project can be downloaded from the following lin
 
 After downloading, place the weights file in the `weights/` directory to use them with the scripts.
 
+Usage
+1. pip install
+
