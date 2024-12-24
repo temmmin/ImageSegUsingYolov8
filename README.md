@@ -9,7 +9,7 @@ A project for image segmentation using YOLOv8. This repository demonstrates how 
 
 
 **Title**: Image Segmentation Using YOLOv8 for Display-Field Communication (DFC) 
-**DOI**: [10.1109/ICCE-Asia63397.2024.10774043](https://doi.org/10.1109/ICCE-Asia63397.2024.10774043)
+**DOI**: [Paper]((https://ieeexplore.ieee.org/document/10774043)
 
 
 ## Pretrained Weights
