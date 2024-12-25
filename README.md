@@ -6,7 +6,7 @@ A project for image segmentation using YOLOv8. This repository demonstrates how 
 
 ## Features
 - YOLOv8-based image segmentation.
-- This model is designed for steganography and digital watermarking using images.
+- This model is designed for steganography and DFC using images.
 - This model is used for image region segmentation within a display.
 
 ## Conference Paper
