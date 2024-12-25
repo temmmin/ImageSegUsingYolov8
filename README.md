@@ -4,12 +4,18 @@
 A project for image segmentation using YOLOv8. This repository demonstrates how to segment images efficiently with state-of-the-art deep learning models.
 
 ## Features
-- YOLOv8-based image segmentation
-- This is 10.1109/ICCE-Asia63397.2024.10774043
+- YOLOv8-based image segmentation.
+- This model is designed for steganography and digital watermarking using images.
+- This model is used for image region segmentation within a display.
 
-
+Conference Paper
 **Title**: Image Segmentation Using YOLOv8 for Display-Field Communication (DFC) 
 **Paper**: [Conference Paper Link](https://ieeexplore.ieee.org/document/10774043)
+
+## References
+This project utilizes the YOLOv8 model. For more details, visit the official YOLOv8 GitHub repository:
+
+- [YOLOv8 Official GitHub Repository](https://github.com/ultralytics/ultralytics)
 
 
 ## Pretrained Weights
