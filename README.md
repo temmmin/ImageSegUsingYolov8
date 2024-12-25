@@ -8,7 +8,7 @@ A project for image segmentation using YOLOv8. This repository demonstrates how 
 - This model is designed for steganography and digital watermarking using images.
 - This model is used for image region segmentation within a display.
 
-Conference Paper
+## Conference Paper
 **Title**: Image Segmentation Using YOLOv8 for Display-Field Communication (DFC) 
 **Paper**: [Conference Paper Link](https://ieeexplore.ieee.org/document/10774043)
 
@@ -20,9 +20,10 @@ This project utilizes the YOLOv8 model. For more details, visit the official YOL
 
 ## Pretrained Weights
 
-The pretrained weights for this project can be downloaded from the following link:
+The trained weights for this project can be downloaded from the following link:
 
 - [Download Pretrained Weights](https://drive.google.com/file/d/1MtDCr5guhAzoD9s4G-XIF445vmTzLTzg/view?usp=drive_link)
+- .pt model was traiend with custom datasets
 
 After downloading, place the weights file in the `weights/` directory to use them with the scripts.
 
