@@ -1,4 +1,5 @@
-# Image Segmentation Using Yolov8 for Digiter watwrmarking & DFC(Display Field Communication)
+# Image Segmentation Using Yolov8 
+This model is designed for Digiter watwrmarking & DFC(Display Field Communication)
 
 
 A project for image segmentation using YOLOv8. This repository demonstrates how to segment images efficiently with state-of-the-art deep learning models.
