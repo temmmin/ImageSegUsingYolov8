@@ -49,7 +49,7 @@ After downloading, place the weights file in the `weights/` directory to use the
 4. Warping Result
 
 <div align="center">
-  <img src="/example/result.png" alt="Warping Image" />
+  <img src="/example/resul.png" alt="Warping Image" />
 </div>
 
 
