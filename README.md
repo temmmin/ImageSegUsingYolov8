@@ -38,8 +38,14 @@ After downloading, place the weights file in the `weights/` directory to use the
 1. Original Image
 ![Example Image](/example/1.jpg)
 
-2. Original Image
-![Example Image](/example/1.jpg)
+2. Mask Image
+![Example Image](/example/mask.png)
+
+3. Contour Result
+![Example Image](/example/cont.png)
+
+4. Warping Result
+![Example Image](/example/result.png)
 
 
 
