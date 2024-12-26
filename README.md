@@ -16,14 +16,15 @@ A project for image segmentation using YOLOv8. This repository demonstrates how 
 ## References
 This project utilizes the YOLOv8 model. For more details, visit the official YOLOv8 GitHub repository:
 
-- [YOLOv8 Official GitHub Repository](https://github.com/ultralytics/ultralytics)
+- [YOLO Official GitHub Repository](https://github.com/ultralytics/ultralytics)
+- [YOLOv8 Official Hompage]([https://github.com/ultralytics/ultralytics](https://docs.ultralytics.com/ko/models/yolov8/))
 
 
 ## trained Weights
 
 The trained weights for this project can be downloaded from the following link:
 
-- [Download Pretrained Weights](https://drive.google.com/file/d/1MtDCr5guhAzoD9s4G-XIF445vmTzLTzg/view?usp=drive_link)
+- [Download trained Weights using Custom dataset](https://drive.google.com/file/d/1MtDCr5guhAzoD9s4G-XIF445vmTzLTzg/view?usp=drive_link)
 - train1.pt model was traiend with custom datasets
 
 After downloading, place the weights file in the `weights/` directory to use them with the scripts.
