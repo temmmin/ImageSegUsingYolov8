@@ -20,7 +20,7 @@ This project utilizes the YOLOv8 model. For more details, visit the official YOL
 - [YOLOv8 Official Hompage]([https://github.com/ultralytics/ultralytics](https://docs.ultralytics.com/ko/models/yolov8/))
 
 
-## trained Weights
+## trained Weights File
 
 The trained weights for this project can be downloaded from the following link:
 
