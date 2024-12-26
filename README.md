@@ -30,8 +30,8 @@ After downloading, place the weights file in the `weights/` directory to use the
 
 ## Usage
 1. Install the dependencies listed in requirements.txt using "pip install -r requirements.txt"
-2. Ensure that the paths in test_yolov8.py, such as 'model_path', 'image_path', and 'save paths (save_final, save_cont,save_nask)', are correctly set to match your file structure before running the script.
-3. You can set warping size with 'height' & 'width' parameters
+2. Ensure that the paths in test_yolov8.py, such as `model_path`, `image_path`, and `save paths (save_final, save_cont,save_nask)`, are correctly set to match your file structure before running the script.
+3. You can set warping size with `height` & `width` parameters
 4.  Run test_yolov8.py
 
 
