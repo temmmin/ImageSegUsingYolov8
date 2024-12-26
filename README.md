@@ -33,7 +33,7 @@ After downloading, place the weights file in the `weights/` directory to use the
 2. Ensure that the paths in test_yolov8.py, such as model_path, image_path, and save paths (save_final, save_cont), are correctly set to match your file structure before running the script.
 3.  Run test_yolov8.py
 
-![Example Image](1.jpg)
+![Example Image](/example/1.jpg)
 
 
 
